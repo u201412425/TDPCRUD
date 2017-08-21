@@ -1,0 +1,42 @@
+﻿@model TDPCRUD.ViewModel.LstProfesorViewModel
+@{
+    ViewBag.Title = "Profesores";
+    ViewBag.SubTitle = "Lista";
+}
+<div class="col-md-12">
+    <div class="box box-body">
+        <a href="@Url.Action("AddEditProfesor")" class="btn btn-sm btn-success pull-left"><i class="fa fa-plus-circle"></i> Agregar</a>
+    </div>
+    <div class="box box-body">
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>Nombres</th>
+                    <th>Apellidos</th>
+                    <th>Direccion</th>
+                    <th>FechaNacimiento</th>
+                    <th>Opciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.LstProfesor)
+                {
+                    <tr>
+                        <td>@item.Nombres</td>
+                        <td>@item.Apellidos</td>
+                        <td>@item.Direccion</td>
+                        <td>@item.FechaNacimiento.Value.ToShortDateString()</td>
+                        <td>
+                            <a class="btn btn-default" href="@Url.Action("AddEditProfesor", new { IdProfesor = item.IdProfesor })">
+                                <i class="fa fa-edit"></i> Editar
+                            </a>
+                            <a class="btn btn-default" href="@Url.Action("DeleteProfesor", new { IdProfesor = item.IdProfesor })">
+                                <i class="fa fa-trash"></i> Eliminar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

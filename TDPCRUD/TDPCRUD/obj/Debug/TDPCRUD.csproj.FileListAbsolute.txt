@@ -1,0 +1,250 @@
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\ApplicationInsights.config
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\csc.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\vbc.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\VBCSCompiler.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\TDPCRUD.dll.config
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\TDPCRUD.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\TDPCRUD.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Antlr3.Runtime.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\EntityFramework.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\EntityFramework.SqlServer.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.Web.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.ApplicationInsights.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Google.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Newtonsoft.Json.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Owin.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.Helpers.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.Mvc.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.Optimization.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.Razor.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Deployment.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Razor.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\WebGrease.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.Web.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.ApplicationInsights.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.Helpers.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.Mvc.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.Optimization.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.Razor.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Deployment.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Razor.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Antlr3.Runtime.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Newtonsoft.Json.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\EntityFramework.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\EntityFramework.SqlServer.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Google.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\obj\Debug\TDPCRUD.csprojResolveAssemblyReference.cache
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\obj\Debug\TDPCRUD.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDPCRUD\TDPCRUD\obj\Debug\TDPCRUD.pdb
+D:\TDP\TDPCRUD\TDPCRUD\bin\ApplicationInsights.config
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\csc.exe
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\vbc.exe
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\VBCSCompiler.exe
+D:\TDP\TDPCRUD\TDPCRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\TDP\TDPCRUD\TDPCRUD\bin\TDPCRUD.dll.config
+D:\TDP\TDPCRUD\TDPCRUD\bin\TDPCRUD.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\TDPCRUD.pdb
+D:\TDP\TDPCRUD\TDPCRUD\bin\Antlr3.Runtime.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\EntityFramework.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\EntityFramework.SqlServer.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.DependencyCollector.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.Web.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.WindowsServer.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.ApplicationInsights.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Google.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Newtonsoft.Json.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Owin.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.Helpers.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.Mvc.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.Optimization.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.Razor.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Deployment.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Razor.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\WebGrease.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.DependencyCollector.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.Web.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AI.WindowsServer.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.ApplicationInsights.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.Helpers.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.Mvc.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.Optimization.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.Razor.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Deployment.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Razor.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Antlr3.Runtime.pdb
+D:\TDP\TDPCRUD\TDPCRUD\bin\Newtonsoft.Json.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\EntityFramework.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\EntityFramework.SqlServer.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Google.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TDP\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TDP\TDPCRUD\TDPCRUD\obj\Debug\TDPCRUD.dll
+D:\TDP\TDPCRUD\TDPCRUD\obj\Debug\TDPCRUD.pdb
+D:\TDP\TDPCRUD\TDPCRUD\bin\nunit.framework.dll
+D:\TDP\TDPCRUD\TDPCRUD\bin\nunit.framework.xml
+D:\TDP\TDPCRUD\TDPCRUD\obj\Debug\TDPCRUD.csprojResolveAssemblyReference.cache
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\ApplicationInsights.config
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\csc.exe
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\vbc.exe
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\VBCSCompiler.exe
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\TDPCRUD.dll.config
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\TDPCRUD.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\TDPCRUD.pdb
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Antlr3.Runtime.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\EntityFramework.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\EntityFramework.SqlServer.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.Web.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.WindowsServer.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.ApplicationInsights.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Google.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Newtonsoft.Json.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\nunit.framework.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Owin.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.Helpers.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.Mvc.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.Optimization.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.Razor.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Deployment.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Razor.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\WebGrease.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.Web.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AI.WindowsServer.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.ApplicationInsights.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\nunit.framework.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.Helpers.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.Mvc.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.Optimization.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.Razor.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Deployment.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\System.Web.WebPages.Razor.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Antlr3.Runtime.pdb
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Newtonsoft.Json.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\EntityFramework.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\EntityFramework.SqlServer.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Google.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\obj\Debug\TDPCRUD.csprojResolveAssemblyReference.cache
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\obj\Debug\TDPCRUD.dll
+D:\Repositorios\TDPCRUD\TDPCRUD\TDPCRUD\obj\Debug\TDPCRUD.pdb

@@ -1,0 +1,25 @@
+﻿@model TDPCRUD.ViewModel.AddEditProfesorViewModel
+@{
+    ViewBag.Title = "Profesor";
+    ViewBag.SubTitle = Model.IdProfesor.HasValue ? "Editar" : "Agregar";
+}
+
+<form role="form" method="post" action="@Url.Action("AddEditProfesor")">
+    @Html.HiddenFor(x => x.IdProfesor)
+    <div class="form-group">
+        <label>Nombres</label>
+        @Html.TextBoxFor(x => x.Nombres, new { @class = "form-control" })
+
+        <label>Apellidos</label>
+        @Html.TextBoxFor(x => x.Apellidos, new { @class = "form-control" })
+
+        <label>Direccion</label>
+        @Html.TextBoxFor(x => x.Direccion, new { @class = "form-control" })
+
+        <label>Fecha de Nacimiento</label>
+        @Html.TextBoxFor(x => x.FechaNacimiento, new { @class = "form-control datepicker" })
+    </div>
+    <button type="submit" class="btn btn-primary"><i class="fa fa-save"></i>Guardar</button>
+    <a href="@Url.Action("LstProfesor")"><i class="fa fa-arrow-left"></i>Cancelar </a>
+</form>
+
